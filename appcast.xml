@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>DevFlow Factory</title>
+    <item>
+      <title>Version 0.12.0</title>
+      <pubDate>Sat, 18 Jul 2026 22:12:12 +0000</pubDate>
+      <sparkle:version>202607182212</sparkle:version>
+      <sparkle:shortVersionString>0.12.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/KlausFreiberufler/devflow-desktop-releases/releases/download/v0.12.0/DevFlowFactory-0.12.0.zip" sparkle:edSignature="jujbkX1CO9NsWsJ5mcB7lRz9CRJyc3Se+77qeWE8c0jzettu84mie9M+T7+D2rmBqOJ5Bu1V5JYhCcNOoNLWDg==" length="5045587" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
