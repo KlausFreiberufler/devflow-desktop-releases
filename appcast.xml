@@ -98,5 +98,13 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure url="https://github.com/KlausFreiberufler/devflow-desktop-releases/releases/download/v0.23.0/DevFlowFactory-0.23.0.zip" sparkle:edSignature="VnXxcywnytRmg5YoAu9nMLjsdQoYoZm32XbdbCgyYcac6qW83ZomdM7p+O79poXmedsrHG/PeonYuzuAN+irBw==" length="5135823" type="application/octet-stream"/>
     </item>
+    <item>
+      <title>Version 0.24.0</title>
+      <pubDate>Sun, 19 Jul 2026 19:14:31 +0000</pubDate>
+      <sparkle:version>202607191913</sparkle:version>
+      <sparkle:shortVersionString>0.24.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/KlausFreiberufler/devflow-desktop-releases/releases/download/v0.24.0/DevFlowFactory-0.24.0.zip" sparkle:edSignature="GyDxGlIQjY/FQ5BxBaFtxU2EUvh+4Ni4wAMrQmADzpRByVUMUu7bloSDE7flOZ8Q4Kj9WDMsxj055fi5roOWCg==" length="5148320" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
